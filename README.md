@@ -57,6 +57,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RyjkovAlexey&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyjkovAlexey&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyjkovAlexey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=RyjkovAlexey&theme=onedark&no-bg=true" />
