@@ -54,6 +54,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RyjkovAlexey&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RyjkovAlexey&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=RyjkovAlexey&theme=onedark&no-bg=true" />
